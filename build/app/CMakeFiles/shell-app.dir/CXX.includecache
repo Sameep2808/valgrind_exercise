@@ -10,6 +10,14 @@
 iostream
 -
 
+/home/sameep/Desktop/EMPN808X/valgrind/valgrind_exercise/app/AnalogSensor.cpp
+AnalogSensor.hpp
+-
+numeric
+-
+vector
+-
+
 /home/sameep/Desktop/EMPN808X/valgrind/valgrind_exercise/app/main.cpp
 iostream
 -
